@@ -1,0 +1,16 @@
+{
+  "name": "ScholarScouts",
+  "version": "0.0.1",
+  "description": "P2P Student Tutoring Network",
+  "scripts": {
+  },
+  "dependencies": {
+    "express": ""
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {
+  "forever": ""
+  },
+  "author": "Dev"
+}
